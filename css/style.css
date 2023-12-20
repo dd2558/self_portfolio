@@ -13,6 +13,7 @@ body{
 
 h1{
     position: absolute;
+    margin: 0 auto;
     left: 370px;
     top: 175px;
     color:rgb(220, 228, 189);
@@ -72,6 +73,7 @@ h3>span{
 
 
 .imgcontainer>article{
+    margin: 0 auto;
     float:left; 
     margin-left: 30px;
     margin-bottom: 10px;
