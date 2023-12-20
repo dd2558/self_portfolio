@@ -133,6 +133,7 @@ p.frame:hover>img{
     width: 300px;
     height: 250px;
     background-color: rgba(0,0,0,0.5);
+    border-radius: 25px;
     content: '';
     transition: all 1s;			
 }
